@@ -7,7 +7,7 @@ const LoginPage: React.FC = () => {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const navigate = useNavigate();
-  const correctPassword = 'Ansh96499@';
+  const correctPassword = import.meta.env.VITE_PASS;
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
