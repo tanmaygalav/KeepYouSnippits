@@ -89,7 +89,10 @@ This ensures proper client-side routing for React.
 ---
 
 ## 📷 Screenshots
-*(Add your screenshots here once deployed!)*  
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/571d6d9f-90a1-4eb8-8399-fc8f6acf90f9" />
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/62cafe3e-b491-4fe0-9e76-a4f3156cd68f" />
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/5e32cb1f-d11c-4165-9a49-b368bd42328b" />
+
 
 ---
 
